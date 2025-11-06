@@ -4,8 +4,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_geek():
-    return 'ok python app is done p!!!!!!!!!, added webhook'
-@app.route('/hi')
+    return 'ok python app is  done zall!!!!!!!!!, added webhook'
+@app.route('/hi') 
 def hell():
     return '<h1>Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii from Flask & Docker</h1>'
 
